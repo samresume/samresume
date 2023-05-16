@@ -5,7 +5,9 @@
 
 <a href="rezadatascience.com/resume.pdf"> Online Resume </a>
 <br/>
-<a href="linkedin.com/in/rezadatascience">LinkedIn </a>
+<a href="rezadatascience.com/resume.pdf"> Online Cover Letter </a>
+<br/>
+<a href="linkedin.com/in/rezadatascience"> LinkedIn </a>
 <br/>
 <a href="rezadatascience.com"> Website </a>
 
