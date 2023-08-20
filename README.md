@@ -5,8 +5,5 @@
 <br/>
 <a href="aibysam.com/resume.pdf"> My Cover Letter </a>
 <br/>
-<a href="linkedin.com/in/aibysam.com"> LinkedIn </a>
-<br/>
-
 </p>
 
