@@ -1,9 +1,4 @@
-
-<p align="center">
-  <img src="https://github.com/mreskandarinasab/mreskandarinasab.github.io/blob/master/images/logo.svg?raw=true" alt="Photo" style="width: 600px;"/> 
-</p>
-
-<a href="aibysam.com"> AIBYSAM.COM </a>
+<button style="padding: 5px 10px; background-color: rgb(230,230,230); border-radius: 15px;" onclick="window.location.href='https://samresume.com';"> AIBYSAM.COM </button>
 <br/>
 <a href="aibysam.com/resume.pdf"> Online Resume </a>
 <br/>
