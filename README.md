@@ -1,4 +1,6 @@
-<a align="center" href="https://samresume.com"> My Website</a>
+<p align="center">
+  <a href="https://samresume.com"> My Website</a>
+</p>
 <br/>
 <a href="aibysam.com/resume.pdf"> Online Resume </a>
 <br/>
