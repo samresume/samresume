@@ -1,4 +1,4 @@
-<button style="padding: 5px 10px; background-color: rgb(230,230,230); border-radius: 15px;" onclick="window.location.href='https://samresume.com';"> My Website</button>
+<a style="padding: 5px 10px; background-color: rgb(230,230,230); border-radius: 15px;" onclick="window.location.href='https://samresume.com';"> My Website</a>
 <br/>
 <a href="aibysam.com/resume.pdf"> Online Resume </a>
 <br/>
