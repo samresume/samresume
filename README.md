@@ -3,9 +3,9 @@
   <br/>
   <a href="linkedin.com/in/aibysam.com"> LinkedIn </a>
 <br/>
-<a href="aibysam.com/resume.pdf"> My Resume </a>
+<a href="samresume.com/resume.pdf"> My Resume </a>
 <br/>
-<a href="aibysam.com/resume.pdf"> My Cover Letter </a>
+<a href="samresume.com/resume.pdf"> My Cover Letter </a>
 <br/>
 </p>
 
