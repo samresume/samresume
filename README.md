@@ -3,7 +3,7 @@
 ![alt text](https://github.com/samresume/samresume/blob/main/wallpaper.png)
 
   
-  <a href="linkedin.com/in/samresume"> LinkedIn </a>
+  <a href="https://linkedin.com/in/samresume"> LinkedIn </a>
 <br/>
 </p>
 
