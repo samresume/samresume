@@ -26,8 +26,8 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
 
 ## 🔗 Connect with Me
 <p align="center">
-  ##<a href="https://samresume.com">Website</a> |
-  ##<a href="https://linkedin.com/in/samresume">LinkedIn</a>
+  <h3 href="https://samresume.com">Website</h3> |
+  <h3 href="https://linkedin.com/in/samresume">LinkedIn</h3>
 </p>
 
 Feel free to connect with me or follow my research and projects here on GitHub!
