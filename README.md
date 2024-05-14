@@ -26,7 +26,6 @@ Currently pursuing a **Master’s and PhD in Computer Science** at Utah State Un
 - **Keras** - Proficient (60%)
 - **scikit-learn** - Proficient (70%)
 - **Matplotlib & Seaborn** - Proficient (60%)
-- **SAS** - Proficient (50%)
 - **SQL** - Expert (90%)
 
 ## 🔗 Connect with Me
