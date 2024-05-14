@@ -10,8 +10,6 @@ Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State Universi
 
 I am best described as dedicated, disciplined, and hard-working. My aim is to develop innovative solutions that enhance the capabilities of data-driven technologies.
 
-## 🎓 Academic Journey
-Currently pursuing a **Master’s and PhD in Computer Science** at Utah State University. My journey through academia is guided by a passion for deep learning and the complexities of machine learning models.
 
 ## 💻 Technical Proficiency
 - **Machine Learning Concepts** - Expert (90%)
