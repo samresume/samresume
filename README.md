@@ -26,7 +26,6 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://samresume.com">Website</a> |
   <a href="https://linkedin.com/in/samresume">LinkedIn</a>
 </p>
 
