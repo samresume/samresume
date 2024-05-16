@@ -1,4 +1,3 @@
-
 # MohammadReza (Sam) EskandariNasab
 
 <p align="center">
@@ -10,23 +9,27 @@ Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State Universi
 
 I am best described as dedicated, disciplined, and hard-working. My aim is to develop innovative solutions that enhance the capabilities of data-driven technologies.
 
-
 ## 💻 Technical Proficiency
-- **Machine Learning Concepts** - Expert (90%)
-- **Deep Learning Concepts** - Expert (90%)
-- **Data Preprocessing Concepts** - Expert (90%)
-- **Python** - Expert (90%)
-- **Pandas** - Proficient (70%)
-- **Numpy** - Proficient (50%)
-- **PyTorch** - Proficient (50%)
-- **Keras** - Proficient (60%)
-- **scikit-learn** - Proficient (70%)
-- **Matplotlib & Seaborn** - Proficient (60%)
-- **SQL** - Expert (90%)
+- ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Expert-blue) - Expert (90%)
+- ![Deep Learning](https://img.shields.io/badge/Deep_Learning-Expert-blue) - Expert (90%)
+- ![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-Expert-blue) - Expert (90%)
+- ![Python](https://img.shields.io/badge/Python-Expert-blue) - Expert (90%)
+- ![Pandas](https://img.shields.io/badge/Pandas-Proficient-blue) - Proficient (70%)
+- ![Numpy](https://img.shields.io/badge/Numpy-Proficient-blue) - Proficient (50%)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-Proficient-blue) - Proficient (50%)
+- ![Keras](https://img.shields.io/badge/Keras-Proficient-blue) - Proficient (60%)
+- ![scikit-learn](https://img.shields.io/badge/scikit_learn-Proficient-blue) - Proficient (70%)
+- ![Matplotlib & Seaborn](https://img.shields.io/badge/Matplotlib_%26_Seaborn-Proficient-blue) - Proficient (60%)
+- ![SQL](https://img.shields.io/badge/SQL-Expert-blue) - Expert (90%)
 
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/samresume">LinkedIn</a>
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samresume&show_icons=true&theme=tokyonight" alt="Sam's GitHub Stats">
 </p>
 
 Feel free to connect with me or follow my research and projects here on GitHub!
