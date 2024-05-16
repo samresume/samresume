@@ -1,4 +1,4 @@
-## MohammadReza (Sam) EskandariNasab
+## EskandariNasab
 
 <p align="center">
   <img src="https://github.com/samresume/samresume/blob/main/wallpaper.jpg" alt="Sam EskandariNasab">
