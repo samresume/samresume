@@ -48,7 +48,7 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
   <img src="https://github-readme-stats.vercel.app/api?username=samresume&show_icons=true&theme=light" alt="Sam's GitHub Stats">
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samresume&layout=compact&theme=light" alt="Sam's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdresume&layout=compact&theme=light" alt="Sam's Top Languages">
 </p>
 
 
