@@ -10,6 +10,7 @@ Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State Universi
 
 I am best described as dedicated, disciplined, and hard-working. My aim is to develop innovative solutions that enhance the capabilities of data-driven technologies.
 
+##
 ### 💻 Technical Proficiency
 <table>
 <tr>
@@ -37,12 +38,15 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
   <td></td>
 </tr>
 </table>
+
+##
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samresume&show_icons=true&theme=light" alt="Sam's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samresume&layout=compact&theme=light" alt="Sam's Top Languages">
 </p>
 
+##
 ### 🔗 Connect with Me
 <p align="left">
   <h3><a href="https://linkedin.com/in/samresume">LinkedIn</a></h3>
