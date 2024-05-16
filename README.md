@@ -1,10 +1,10 @@
-# MohammadReza (Sam) EskandariNasab
+## MohammadReza (Sam) EskandariNasab
 
 <p align="center">
   <img src="https://github.com/samresume/samresume/blob/main/wallpaper.jpg" alt="Sam EskandariNasab">
 </p>
 
-## 👨‍🎓 About Me
+### 👨‍🎓 About Me
 Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State University**, where I am fortunate to be supervised by **Dr. Shah Muhammad Hamdi**. My research focuses on **Generative Models, Data Augmentation, Time Series Analysis**, and **Deep Learning**.
 
 I am best described as dedicated, disciplined, and hard-working. My aim is to develop innovative solutions that enhance the capabilities of data-driven technologies.
@@ -36,13 +36,13 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
   <td></td>
 </tr>
 </table>
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samresume&show_icons=true&theme=light" alt="Sam's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samresume&layout=compact&theme=light" alt="Sam's Top Languages">
 </p>
 
-## 🔗 Connect with Me
+### 🔗 Connect with Me
 <p align="left">
   <h3><a href="https://linkedin.com/in/samresume">LinkedIn</a></h3>
 </p>
