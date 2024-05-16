@@ -4,14 +4,16 @@
   <img src="https://github.com/samresume/samresume/blob/main/wallpaper.jpg" alt="Sam EskandariNasab">
 </p>
 
-##
+
 ### 👨‍🎓 About Me
+##
 Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State University**, where I am fortunate to be supervised by **Dr. Shah Muhammad Hamdi**. My research focuses on **Generative Models, Data Augmentation, Time Series Analysis**, and **Deep Learning**.
 
 I am best described as dedicated, disciplined, and hard-working. My aim is to develop innovative solutions that enhance the capabilities of data-driven technologies.
 
-##
+
 ### 💻 Technical Proficiency
+##
 <table>
 <tr>
   <td><img src="https://img.shields.io/badge/Machine_Learning-Expert-green" alt="Machine Learning Icon"> Machine Learning - Expert</td>
@@ -39,8 +41,9 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
 </tr>
 </table>
 
-##
+
 ### 📊 GitHub Stats
+##
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=samresume&show_icons=true&theme=light" alt="Sam's GitHub Stats">
 </p>
