@@ -1,4 +1,4 @@
-## My Name is MohammadReza (Sam) EskandariNasab
+## MohammadReza (Sam) EskandariNasab
 
 <p align="center">
   <img src="https://github.com/samresume/samresume/blob/main/wallpaper.jpg" alt="Sam EskandariNasab">
