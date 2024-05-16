@@ -10,17 +10,17 @@ Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State Universi
 I am best described as dedicated, disciplined, and hard-working. My aim is to develop innovative solutions that enhance the capabilities of data-driven technologies.
 
 ## 💻 Technical Proficiency
-- ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Expert-blue) - Expert (90%)
-- ![Deep Learning](https://img.shields.io/badge/Deep_Learning-Expert-blue) - Expert (90%)
-- ![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-Expert-blue) - Expert (90%)
-- ![Python](https://img.shields.io/badge/Python-Expert-blue) - Expert (90%)
-- ![Pandas](https://img.shields.io/badge/Pandas-Proficient-blue) - Proficient (70%)
-- ![Numpy](https://img.shields.io/badge/Numpy-Proficient-blue) - Proficient (50%)
-- ![PyTorch](https://img.shields.io/badge/PyTorch-Proficient-blue) - Proficient (50%)
-- ![Keras](https://img.shields.io/badge/Keras-Proficient-blue) - Proficient (60%)
-- ![scikit-learn](https://img.shields.io/badge/scikit_learn-Proficient-blue) - Proficient (70%)
-- ![Matplotlib & Seaborn](https://img.shields.io/badge/Matplotlib_%26_Seaborn-Proficient-blue) - Proficient (60%)
-- ![SQL](https://img.shields.io/badge/SQL-Expert-blue) - Expert (90%)
+- <img src="https://img.shields.io/badge/Machine_Learning-Expert-blue" alt="Machine Learning Icon"> Machine Learning - Expert (90%)
+- <img src="https://img.shields.io/badge/Deep_Learning-Expert-blue" alt="Deep Learning Icon"> Deep Learning - Expert (90%)
+- <img src="https://img.shields.io/badge/Data_Preprocessing-Expert-blue" alt="Data Preprocessing Icon"> Data Preprocessing - Expert (90%)
+- <img src="https://img.shields.io/badge/Python-Expert-blue" alt="Python Icon"> Python - Expert (90%)
+- <img src="https://img.shields.io/badge/Pandas-Proficient-blue" alt="Pandas Icon"> Pandas - Proficient (70%)
+- <img src="https://img.shields.io/badge/Numpy-Proficient-blue" alt="Numpy Icon"> Numpy - Proficient (50%)
+- <img src="https://img.shields.io/badge/PyTorch-Proficient-blue" alt="PyTorch Icon"> PyTorch - Proficient (50%)
+- <img src="https://img.shields.io/badge/Keras-Proficient-blue" alt="Keras Icon"> Keras - Proficient (60%)
+- <img src="https://img.shields.io/badge/scikit_learn-Proficient-blue" alt="scikit-learn Icon"> scikit-learn - Proficient (70%)
+- <img src="https://img.shields.io/badge/Matplotlib_%26_Seaborn-Proficient-blue" alt="Matplotlib & Seaborn Icon"> Matplotlib & Seaborn - Proficient (60%)
+- <img src="https://img.shields.io/badge/SQL-Expert-blue" alt="SQL Icon"> SQL - Expert (90%)
 
 ## 🔗 Connect with Me
 <p align="center">
@@ -29,8 +29,5 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samresume&show_icons=true&theme=tokyonight" alt="Sam's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samresume&layout=compact&theme=tokyonight" alt="Sam's Top Languages">
-</p>
-
-Feel free to connect with me or follow my research and projects here on GitHub!
+  <img src="https://github-readme-stats.vercel.app/api?username=samresume&show_icons=true&theme=light" alt="Sam's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samresume&layout=compact&
