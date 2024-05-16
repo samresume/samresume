@@ -51,8 +51,9 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samresume&layout=compact&theme=light" alt="Sam's Top Languages">
 </p>
 
-##
+
 ### 🔗 Connect with Me
+##
 Feel free to connect with me or follow my research and projects here on GitHub!
 <p align="left">
   <h3><a href="https://linkedin.com/in/samresume">LinkedIn</a></h3>
