@@ -30,4 +30,7 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samresume&show_icons=true&theme=light" alt="Sam's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samresume&layout=compact&
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samresume&layout=compact&theme=light" alt="Sam's Top Languages">
+</p>
+
+Feel free to connect with me or follow my research and projects here on GitHub!
