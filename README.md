@@ -61,4 +61,10 @@ Feel free to connect with me or follow my research and projects here on GitHub!
 <p align="left">
   <h3><a href="https://linkedin.com/in/samresume">LinkedIn</a></h3>
 </p>
+<p align="left">
+  <h3><a href="https://samresume.com/">Website</a></h3>
+</p>
+<p align="left">
+  <h3><a href="https://www.researchgate.net/profile/Mohammadreza-Eskandarinasab/research">ResearchGate</a></h3>
+</p>
 
