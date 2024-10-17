@@ -14,46 +14,28 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
 
 ### 💻 Technical Proficiency
 
-#### Data Science & Machine Learning
-<table>
-<tr>
-  <td><img src="https://img.shields.io/badge/TensorFlow-Proficient-blue" alt="TensorFlow Icon"> TensorFlow - Proficient</td>
-  <td><img src="https://img.shields.io/badge/Keras-Proficient-blue" alt="Keras Icon"> Keras - Proficient</td>
-</tr>
-<tr>
-  <td><img src="https://img.shields.io/badge/scikit_learn-Proficient-blue" alt="scikit-learn Icon"> scikit-learn - Proficient</td>
-  <td><img src="https://img.shields.io/badge/Pandas-Proficient-blue" alt="Pandas Icon"> Pandas - Proficient</td>
-</tr>
-<tr>
-  <td><img src="https://img.shields.io/badge/Numpy-Proficient-blue" alt="Numpy Icon"> Numpy - Proficient</td>
-  <td><img src="https://img.shields.io/badge/Matplotlib_%26_Seaborn-Proficient-blue" alt="Matplotlib & Seaborn Icon"> Matplotlib & Seaborn - Proficient</td>
-</tr>
-</table>
-
 #### Programming Languages & Frameworks
-<table>
-<tr>
-  <td><img src="https://img.shields.io/badge/Python-Expert-green" alt="Python Icon"> Python - Expert</td>
-  <td><img src="https://img.shields.io/badge/Django-Expert-green" alt="Django Icon"> Django - Expert</td>
-</tr>
-<tr>
-  <td><img src="https://img.shields.io/badge/React-Expert-green" alt="React Icon"> React - Expert</td>
-  <td><img src="https://img.shields.io/badge/HTML-Expert-green" alt="HTML Icon"> HTML - Expert</td>
-</tr>
-<tr>
-  <td><img src="https://img.shields.io/badge/CSS-Expert-green" alt="CSS Icon"> CSS - Expert</td>
-  <td></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Python-Expert-green" alt="Python Icon">  
+<img src="https://img.shields.io/badge/Django-Expert-green" alt="Django Icon">  
+<img src="https://img.shields.io/badge/React-Expert-green" alt="React Icon">  
+<img src="https://img.shields.io/badge/HTML-Expert-green" alt="HTML Icon">  
+<img src="https://img.shields.io/badge/CSS-Expert-green" alt="CSS Icon">  
+
+#### Data Science & Machine Learning
+<img src="https://img.shields.io/badge/Machine_Learning-Expert-green" alt="Machine Learning Icon">  
+<img src="https://img.shields.io/badge/Deep_Learning-Expert-green" alt="Deep Learning Icon">  
+<img src="https://img.shields.io/badge/TensorFlow-Proficient-blue" alt="TensorFlow Icon">  
+<img src="https://img.shields.io/badge/Keras-Proficient-blue" alt="Keras Icon">  
+<img src="https://img.shields.io/badge/scikit_learn-Proficient-blue" alt="scikit-learn Icon">  
+<img src="https://img.shields.io/badge/Pandas-Proficient-blue" alt="Pandas Icon">  
+<img src="https://img.shields.io/badge/Numpy-Proficient-blue" alt="Numpy Icon">  
+<img src="https://img.shields.io/badge/Matplotlib_%26_Seaborn-Proficient-blue" alt="Matplotlib & Seaborn Icon">  
 
 #### Databases
-<table>
-<tr>
-  <td><img src="https://img.shields.io/badge/SQL-Expert-green" alt="SQL Icon"> SQL - Expert</td>
-  <td><img src="https://img.shields.io/badge/NoSQL-Proficient-blue" alt="NoSQL Icon"> NoSQL - Proficient</td>
-</tr>
-</table>
-<!---
+<img src="https://img.shields.io/badge/SQL-Expert-green" alt="SQL Icon">  
+<img src="https://img.shields.io/badge/NoSQL-Proficient-blue" alt="NoSQL Icon">  
+
+
 ### 📊 GitHub Stats
 ##
 <p align="left">
