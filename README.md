@@ -7,7 +7,7 @@
 
 ### 👨‍🎓 About Me
 ##
-Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State University**, where I am fortunate to be supervised by **Dr. Shah Muhammad Hamdi**. My research focuses on **Generative Models, Data Augmentation, Time Series Analysis**, and **Deep Learning**.
+Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State University**. My research focuses on **Generative Models, Data Augmentation, Time Series Analysis**, and **Solar Flare Prediction**.
 
 I am best described as dedicated, disciplined, and hard-working. My aim is to develop innovative solutions that enhance the capabilities of data-driven technologies.
 
