@@ -6,12 +6,10 @@
 
 
 ### 👨‍🎓 About Me
-##
 Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State University**. My research focuses on **Generative Models, Data Augmentation, Time Series Analysis**, and **Solar Flare Prediction**. I am best described as dedicated, disciplined, and hard-working.
-
+##
 
 ### 💻 Technical Proficiency
-##
 #### Programming Languages & Frameworks
 <img src="https://img.shields.io/badge/Python-Expert-green" alt="Python Icon">  
 <img src="https://img.shields.io/badge/Django-Expert-green" alt="Django Icon">  
@@ -33,9 +31,9 @@ Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State Universi
 <img src="https://img.shields.io/badge/SQL-Expert-green" alt="SQL Icon">  
 <img src="https://img.shields.io/badge/NoSQL-Proficient-blue" alt="NoSQL Icon">  
 
-
-### 📊 GitHub Stats
 ##
+### 📊 GitHub Stats
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=samresume&show_icons=true&theme=light" alt="Sam's GitHub Stats">
 </p>
@@ -45,7 +43,7 @@ Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State Universi
 </p>
 
 
-
+##
 
 ### 🔗 Connect with Me
 
