@@ -50,6 +50,6 @@ Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State Universi
 Feel free to connect with me or follow my research and projects through the following platforms:
 
 - [LinkedIn](https://linkedin.com/in/samresume)
-- [Website](https://samresume.com/)
+- [Persoanl Website](https://samresume.com/)
 - [ResearchGate](https://www.researchgate.net/profile/Mohammadreza-Eskandarinasab/research)
 
