@@ -17,10 +17,6 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
 #### Data Science & Machine Learning
 <table>
 <tr>
-  <td><img src="https://img.shields.io/badge/Machine_Learning-Expert-green" alt="Machine Learning Icon"> Machine Learning - Expert</td>
-  <td><img src="https://img.shields.io/badge/Deep_Learning-Expert-green" alt="Deep Learning Icon"> Deep Learning - Expert</td>
-</tr>
-<tr>
   <td><img src="https://img.shields.io/badge/TensorFlow-Proficient-blue" alt="TensorFlow Icon"> TensorFlow - Proficient</td>
   <td><img src="https://img.shields.io/badge/Keras-Proficient-blue" alt="Keras Icon"> Keras - Proficient</td>
 </tr>
