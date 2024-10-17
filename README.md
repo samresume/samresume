@@ -11,7 +11,7 @@ Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State Universi
 
 
 ### 💻 Technical Proficiency
-
+##
 #### Programming Languages & Frameworks
 <img src="https://img.shields.io/badge/Python-Expert-green" alt="Python Icon">  
 <img src="https://img.shields.io/badge/Django-Expert-green" alt="Django Icon">  
