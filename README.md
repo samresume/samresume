@@ -21,15 +21,15 @@ I am best described as dedicated, disciplined, and hard-working. My aim is to de
 <img src="https://img.shields.io/badge/HTML-Expert-green" alt="HTML Icon">  
 <img src="https://img.shields.io/badge/CSS-Expert-green" alt="CSS Icon">  
 
-#### Data Science & Machine Learning
-<img src="https://img.shields.io/badge/Machine_Learning-Expert-green" alt="Machine Learning Icon">  
-<img src="https://img.shields.io/badge/Deep_Learning-Expert-green" alt="Deep Learning Icon">  
+#### Data Science & Machine Learning 
 <img src="https://img.shields.io/badge/TensorFlow-Proficient-blue" alt="TensorFlow Icon">  
 <img src="https://img.shields.io/badge/Keras-Proficient-blue" alt="Keras Icon">  
 <img src="https://img.shields.io/badge/scikit_learn-Proficient-blue" alt="scikit-learn Icon">  
 <img src="https://img.shields.io/badge/Pandas-Proficient-blue" alt="Pandas Icon">  
 <img src="https://img.shields.io/badge/Numpy-Proficient-blue" alt="Numpy Icon">  
 <img src="https://img.shields.io/badge/Matplotlib_%26_Seaborn-Proficient-blue" alt="Matplotlib & Seaborn Icon">  
+<img src="https://img.shields.io/badge/Machine_Learning-Expert-green" alt="Machine Learning Icon">  
+<img src="https://img.shields.io/badge/Deep_Learning-Expert-green" alt="Deep Learning Icon"> 
 
 #### Databases
 <img src="https://img.shields.io/badge/SQL-Expert-green" alt="SQL Icon">  
