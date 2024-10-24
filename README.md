@@ -36,7 +36,7 @@ Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State Universi
   
   <table border="0" style="width: 100%; table-layout: fixed;">
     <tr>
-      <td align="top" style="width: 50%; vertical-align: top;">
+      <td style="width: 50%; vertical-align: top;">
         <h3>🔗 Connect with Me</h3>
         <p>Stay updated on my news, research, and projects through the following platforms:</p>
         <ul>
