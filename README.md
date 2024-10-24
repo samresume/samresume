@@ -32,7 +32,7 @@ Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State Universi
 
 <div align="center">
   
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
       <td>
         <h3>🔗 Connect with Me</h3>
