@@ -36,7 +36,7 @@ Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State Universi
     <tr>
       <td>
         <h3>🔗 Connect with Me</h3>
-        <p>Feel free to connect with me or follow my research and projects through the following platforms:</p>
+        <p>Connect with me on LinkedIn or follow my research and projects on these platforms:</p>
         <ul>
           <li><a href="https://linkedin.com/in/samresume">LinkedIn</a></li>
           <li><a href="https://samresume.com/">Personal Website</a></li>
