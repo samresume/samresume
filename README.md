@@ -31,21 +31,26 @@ Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State Universi
 
 
 
-##
-### 🚀 GitHub Activity
+<div align="center">
+  
+  <table>
+    <tr>
+      <td>
+        <h3>🔗 Connect with Me</h3>
+        <p>Feel free to connect with me or follow my research and projects through the following platforms:</p>
+        <ul>
+          <li><a href="https://linkedin.com/in/samresume">LinkedIn</a></li>
+          <li><a href="https://samresume.com/">Personal Website</a></li>
+          <li><a href="https://www.researchgate.net/profile/Mohammadreza-Eskandarinasab/research">ResearchGate</a></li>
+        </ul>
+      </td>
+      <td>
+        <h3>🚀 GitHub Activity</h3>
+        <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samresume&layout=compact&theme=light" alt="Sam's Top Languages">
+        </p>
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samresume&layout=compact&theme=light" alt="Sam's Top Languages">
-</p>
-
-
-##
-
-### 🔗 Connect with Me
-
-Feel free to connect with me or follow my research and projects through the following platforms:
-
-- [LinkedIn](https://linkedin.com/in/samresume)
-- [Persoanl Website](https://samresume.com/)
-- [ResearchGate](https://www.researchgate.net/profile/Mohammadreza-Eskandarinasab/research)
-
+</div>
