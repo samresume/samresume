@@ -38,7 +38,6 @@ Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State Universi
     <tr>
       <td style="width: 50%; vertical-align: top;">
         <h4>🔗 Connect with Me</h4>
-        <p>Stay updated on my news, research, and projects through the following platforms:</p>
         <ul>
           <li><a href="https://linkedin.com/in/samresume">LinkedIn</a></li>
           <li><a href="https://samresume.com/">Personal Website</a></li>
