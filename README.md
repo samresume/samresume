@@ -4,12 +4,12 @@
 
 <h1 align="center">MohammadReza (Sam) EskandariNasab</h1> 
 
-<h2 align="center">👨‍🎓 About Me</h1> 
+<h3 align="center">👨‍🎓 About Me</h3> 
 
 Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State University**. My research focuses on **Generative Models, Time Series Analysis**, and **Solar Flare Prediction**. I'm best described as dedicated, disciplined, and hard-working.
 ##
 
-<h2 align="center">💻 Technical Proficiency</h1> 
+<h3 align="center">💻 Technical Proficiency</h3> 
 
 #### Data Science & Machine Learning 
 <img src="https://img.shields.io/badge/TensorFlow-Proficient-blue" alt="TensorFlow Icon">  
