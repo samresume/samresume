@@ -34,7 +34,7 @@ Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State Universi
 ##
 ### 🚀 GitHub Activity
 
-<p align="right">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samresume&layout=compact&theme=light" alt="Sam's Top Languages">
 </p>
 
