@@ -2,7 +2,7 @@
   <img src="https://github.com/samresume/samresume/blob/main/wallpaper.jpg" alt="Sam EskandariNasab">
 </p>
 
-# MohammadReza (Sam) EskandariNasab
+<h1 align="center">MohammadReza (Sam) EskandariNasab</h1> 
 
 ### 👨‍🎓 About Me
 Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State University**. My research focuses on **Generative Models, Time Series Analysis**, and **Solar Flare Prediction**. I'm best described as dedicated, disciplined, and hard-working.
