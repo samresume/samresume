@@ -34,8 +34,8 @@ Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State Universi
   
   <table border="0" style="width: 100%; table-layout: fixed;">
     <tr>
+      <h3>🔗 Connect with Me</h3>
       <td style="width: 50%; vertical-align: top;">
-        <h3>🔗 Connect with Me</h3>
         <p>Stay updated on my news, research, and projects through the following platforms:</p>
         <ul>
           <li><a href="https://linkedin.com/in/samresume">LinkedIn</a></li>
@@ -43,8 +43,8 @@ Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State Universi
           <li><a href="https://www.researchgate.net/profile/Mohammadreza-Eskandarinasab/research">ResearchGate</a></li>
         </ul>
       </td>
+      <h3>🚀 GitHub Activity</h3>
       <td style="width: 50%; vertical-align: top;">
-        <h3>🚀 GitHub Activity</h3>
         <p align="center">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samresume&layout=compact&theme=light" alt="Sam's Top Languages">
         </p>
