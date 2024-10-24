@@ -5,7 +5,7 @@
 # MohammadReza (Sam) EskandariNasab
 
 ### 👨‍🎓 About Me
-Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State University**. My research focuses on **Generative Models, Sequence Generation, Time Series Analysis**, and **Solar Flare Prediction**. I'm best described as dedicated, disciplined, and hard-working.
+Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State University**. My research focuses on **Generative Models, Time Series Analysis**, and **Solar Flare Prediction**. I'm best described as dedicated, disciplined, and hard-working.
 ##
 
 ### 💻 Technical Proficiency
