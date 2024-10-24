@@ -37,7 +37,7 @@ Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State Universi
   <table border="0" style="width: 100%; table-layout: fixed;">
     <tr>
       <td style="width: 50%; vertical-align: top;">
-        <h3>🔗 Connect with Me</h3>
+        <h4>🔗 Connect with Me</h4>
         <p>Stay updated on my news, research, and projects through the following platforms:</p>
         <ul>
           <li><a href="https://linkedin.com/in/samresume">LinkedIn</a></li>
@@ -46,7 +46,7 @@ Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State Universi
         </ul>
       </td>
       <td style="width: 50%; vertical-align: top;">
-        <h3>🚀 GitHub Activity</h3>
+        <h4>🚀 GitHub Activity</h4>
         <p align="center">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samresume&layout=compact&theme=light" alt="Sam's Top Languages">
         </p>
