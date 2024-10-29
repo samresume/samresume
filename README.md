@@ -27,6 +27,8 @@ Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State Universi
 <img src="https://img.shields.io/badge/React-Expert-green" alt="React Icon">  
 <img src="https://img.shields.io/badge/SQL-Expert-green" alt="SQL Icon">  
 <img src="https://img.shields.io/badge/NoSQL-Proficient-blue" alt="NoSQL Icon">  
+<img src="https://img.shields.io/badge/Docker-Proficient-blue" alt="Docker Icon"> 
+<img src="https://img.shields.io/badge/Celery-Proficient-blue" alt="Celery Icon"> 
 <img src="https://img.shields.io/badge/HTML-Expert-green" alt="HTML Icon">  
 <img src="https://img.shields.io/badge/CSS-Expert-green" alt="CSS Icon">  
 
