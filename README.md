@@ -6,7 +6,7 @@
 
 <h3 align="left">👨‍🎓 About Me</h3> 
 
-As a Machine Learning Researcher and Lead Web Developer, I have extensive experience with generative models, including **diffusion models**, **GANs**, and **VAEs**, as well as in time series analysis. Additionally, I led an NSF-funded project to develop an AI-powered web application that enables researchers to train AI models for solar flare prediction without any coding expertise.
+As a Machine Learning Researcher and Lead Web Developer, I have extensive experience with generative models, including **diffusion models**, **GANs**, and **VAEs**. Additionally, I led an NSF-funded project to develop an AI-powered web application that enables researchers to train AI models for solar flare prediction without any coding expertise.
 
 ##
 
