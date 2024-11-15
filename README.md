@@ -2,11 +2,11 @@
   <img src="https://github.com/samresume/samresume/blob/main/wallpaper.jpg" alt="Sam EskandariNasab">
 </p>
 
-<h1 align="center">MohammadReza EskandariNasab (Sam)</h1> 
+<h1 align="center">MohammadReza EskandariNasab</h1> 
 
 <h3 align="left">👨‍🎓 About Me</h3> 
 
-As a Machine Learning Researcher and Lead Web Developer, I have extensive experience with generative models, including **diffusion models**, **GANs**, and **VAEs**. Additionally, I led an NSF-funded project to develop an AI-powered web application that enables researchers to train AI models for solar flare prediction without any coding expertise.
+I am MohammadReza EskandariNasab, also known as Sam, a Machine Learning Researcher and Lead Web Developer with extensive experience in generative models, including **diffusion models**, **GANs**, and **VAEs**. Additionally, I led an NSF-funded project to develop an AI-powered web application that enables researchers to train AI models for solar flare prediction without any coding expertise.
 
 ##
 
