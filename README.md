@@ -6,7 +6,7 @@
 
 <h3 align="left">👨‍🎓 About Me</h3> 
 
-I am MohammadReza EskandariNasab, also known as **Sam**, a Machine Learning Researcher and Lead Web Developer with extensive experience in generative models, including **diffusion models**, **GANs**, and **VAEs**. Additionally, I lead an NSF-funded project to develop an AI-powered web application that enables researchers to train AI models for solar flare prediction without any coding expertise.
+I am MohammadReza EskandariNasab, also known as **Sam**, a Machine Learning Researcher and Lead Web Developer with extensive experience in generative models, including **diffusion models** and **GANs**. Additionally, I lead an NSF-funded project to develop an AI-powered web application that enables researchers to train AI models for solar flare prediction without any coding expertise.
 
 ##
 
