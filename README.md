@@ -20,20 +20,20 @@ I am MohammadReza EskandariNasab, also known as **Sam**, a Machine Learning Rese
 <img src="https://img.shields.io/badge/Numpy-Proficient-blue" alt="Numpy Icon">  
 <img src="https://img.shields.io/badge/Matplotlib_%26_Seaborn-Proficient-blue" alt="Matplotlib & Seaborn Icon">  
 <img src="https://img.shields.io/badge/Machine_Learning-Expert-green" alt="Machine Learning Icon">  
-<img src="https://img.shields.io/badge/Deep_Learning-Expert-green" alt="Neural Networks Icon"> 
-<img src="https://img.shields.io/badge/Deep_Learning-Expert-green" alt="Data Preparation Icon"> 
-<img src="https://img.shields.io/badge/Deep_Learning-Expert-green" alt="Generative AI Icon"> 
+<img src="https://img.shields.io/badge/Neural_Networks-Expert-green" alt="Neural Networks Icon"> 
+<img src="https://img.shields.io/badge/Data_Preparation-Expert-green" alt="Data Preparation Icon"> 
+<img src="https://img.shields.io/badge/Generative_AI-Expert-green" alt="Generative AI Icon"> 
 
 
 
 #### Languages & Frameworks
 <img src="https://img.shields.io/badge/Python-Expert-green" alt="Python Icon">  
-<img src="https://img.shields.io/badge/Python-Expert-green" alt="C++ Icon">  
+<img src="https://img.shields.io/badge/C++-Expert-green" alt="C++ Icon">  
 <img src="https://img.shields.io/badge/Django-Expert-green" alt="Django Icon">  
-<img src="https://img.shields.io/badge/Django-Expert-green" alt="REST APIs Icon">  
+<img src="https://img.shields.io/badge/REST_APIs-Expert-green" alt="REST APIs Icon">  
 <img src="https://img.shields.io/badge/React-Expert-green" alt="React Icon">  
 <img src="https://img.shields.io/badge/SQL-Expert-green" alt="SQL Icon">  
-<img src="https://img.shields.io/badge/NoSQL-Proficient-blue" alt="MongoDB Icon">  
+<img src="https://img.shields.io/badge/MongoDB-Proficient-blue" alt="MongoDB Icon">  
 <img src="https://img.shields.io/badge/Celery-Proficient-blue" alt="Celery Icon"> 
 <img src="https://img.shields.io/badge/HTML-Expert-green" alt="HTML Icon">  
 <img src="https://img.shields.io/badge/CSS-Expert-green" alt="CSS Icon">  
