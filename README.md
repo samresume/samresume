@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/samresume/samresume/blob/main/wallpaper.jpg" alt="Sam EskandariNasab">
+  <img src="https://github.com/samresume/samresume/blob/main/profile_2025.jpg" alt="Sam EskandariNasab">
 </p>
 
-<h1 align="center">MohammadReza (Sam) EskandariNasab</h1> 
+<h1 align="center">Sam EskandariNasab</h1> 
 
 <h3 align="left">👨‍🎓 About Me</h3> 
 
