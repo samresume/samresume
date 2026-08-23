@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samresume/samresume/main/banner_2025.jpg" alt="MohammadReza (Sam) EskandariNasab" width="100%">
-</p>
+
 
 <h1 align="center">MohammadReza "Sam" EskandariNasab</h1>
 
