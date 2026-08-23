@@ -46,18 +46,5 @@ Machine-learning pipelines that forecast **solar flares**, **solar energetic par
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samresume&theme=default" alt="Profile summary" width="100%">
       </picture>
     </td>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samresume&theme=github_dark">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samresume&theme=default" alt="Top languages by repository" width="100%">
-      </picture>
-    </td>
   </tr>
 </table>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=samresume&theme=github-compact&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=samresume&theme=github-light&hide_border=true" alt="Contribution activity graph" width="100%">
-  </picture>
-</p>
