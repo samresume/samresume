@@ -38,13 +38,7 @@ Machine-learning pipelines that forecast **solar flares**, **solar energetic par
 
 ## 🚀 GitHub Activity
 
-<table>
-  <tr>
-    <td width="50%" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samresume&theme=github_dark">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samresume&theme=default" alt="Profile summary" width="100%">
       </picture>
-    </td>
-  </tr>
-</table>
