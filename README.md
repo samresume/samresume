@@ -4,7 +4,7 @@
 
 <h1 align="center">Sam EskandariNasab</h1> 
 
-<h3 align="left">👨‍🎓 About Me</h3> 
+<h3 align="center">👨‍🎓 About Me</h3> 
 
 I am MohammadReza EskandariNasab, also known as Sam, a name inspired by the legendary Persian hero featured in the Shahnameh. I am a fourth-year PhD candidate in Computer Science at Utah State University, where I also earned my MSc in Computer Science. I currently serve as a Graduate Research Assistant and am actively seeking Assistant Professor positions.
 
