@@ -6,39 +6,11 @@
 
 <h3 align="left">👨‍🎓 About Me</h3> 
 
-I am MohammadReza EskandariNasab, also known as **Sam**, a Machine Learning Researcher and Lead Web Developer with extensive experience in generative models, including **diffusion models** and **GANs**. Additionally, I lead an NSF-funded project that enables researchers to train AI models for solar flare prediction without any coding expertise.
+I am MohammadReza EskandariNasab, also known as Sam, a name inspired by the legendary Persian hero featured in the Shahnameh. I am a fourth-year PhD candidate in Computer Science at Utah State University, where I also earned my MSc in Computer Science. I currently serve as a Graduate Research Assistant and am actively seeking Assistant Professor positions.
 
-##
+My research centers on generative modeling for time-series data, including diffusion models, generative adversarial networks, and adversarial autoencoders, with publications at IEEE ICDM, SIAM SDM, IEEE BigData, and IEEE ICMLA. My current work extends this research into multimodal learning through an NSF-funded project (Award No. 2530946), generating and translating across images, text, vector data, and time series through the proposed UNISON framework.
 
-<h3 align="left">💻 Technical Proficiency</h3> 
-
-#### Data Science & Machine Learning 
-<img src="https://img.shields.io/badge/TensorFlow-Proficient-blue" alt="TensorFlow Icon">  
-<img src="https://img.shields.io/badge/Keras-Proficient-blue" alt="Keras Icon">  
-<img src="https://img.shields.io/badge/scikit_learn-Proficient-blue" alt="scikit-learn Icon">  
-<img src="https://img.shields.io/badge/Pandas-Proficient-blue" alt="Pandas Icon">  
-<img src="https://img.shields.io/badge/Numpy-Proficient-blue" alt="Numpy Icon">  
-<img src="https://img.shields.io/badge/Matplotlib_%26_Seaborn-Proficient-blue" alt="Matplotlib & Seaborn Icon">  
-<img src="https://img.shields.io/badge/Machine_Learning-Expert-green" alt="Machine Learning Icon">  
-<img src="https://img.shields.io/badge/Neural_Networks-Expert-green" alt="Neural Networks Icon"> 
-<img src="https://img.shields.io/badge/Data_Preparation-Expert-green" alt="Data Preparation Icon"> 
-<img src="https://img.shields.io/badge/Generative_AI-Expert-green" alt="Generative AI Icon"> 
-
-
-
-#### Languages & Frameworks
-<img src="https://img.shields.io/badge/Python-Expert-green" alt="Python Icon">  
-<img src="https://img.shields.io/badge/C++-Expert-green" alt="C++ Icon">  
-<img src="https://img.shields.io/badge/Django-Expert-green" alt="Django Icon">  
-<img src="https://img.shields.io/badge/REST_APIs-Expert-green" alt="REST APIs Icon">  
-<img src="https://img.shields.io/badge/React-Expert-green" alt="React Icon">  
-<img src="https://img.shields.io/badge/SQL-Expert-green" alt="SQL Icon">  
-<img src="https://img.shields.io/badge/MongoDB-Proficient-blue" alt="MongoDB Icon">  
-<img src="https://img.shields.io/badge/Celery-Proficient-blue" alt="Celery Icon"> 
-<img src="https://img.shields.io/badge/HTML-Expert-green" alt="HTML Icon">  
-<img src="https://img.shields.io/badge/CSS-Expert-green" alt="CSS Icon">  
-
-##
+Alongside this, I build machine-learning pipelines that forecast solar flares, solar energetic particle events, and coronal mass ejections. These works have been published in The Astrophysical Journal Supplement Series, with three additional manuscripts currently in submission to Space Weather and The Astrophysical Journal.
 
 <div align="center">
   
@@ -48,9 +20,9 @@ I am MohammadReza EskandariNasab, also known as **Sam**, a Machine Learning Rese
         <h3>🌐 My Online Presence</h3>
         <p>Stay updated on my news, research, and projects through the following platforms:</p>
         <ul>
+          <li><a href="https://sameskandarinasab.com/">Personal Website</a></li>
+          <li><a href="https://scholar.google.com/citations?user=oUuVbaUAAAAJ">Google Scholar</a></li>
           <li><a href="https://linkedin.com/in/samresume">LinkedIn</a></li>
-          <li><a href="https://samresume.com/">Personal Website</a></li>
-          <li><a href="https://www.researchgate.net/profile/Mohammadreza-Eskandarinasab/research">ResearchGate</a></li>
         </ul>
       </td>
       <td style="width: 50%; vertical-align: top;">
