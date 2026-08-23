@@ -19,10 +19,6 @@
 
 I'm MohammadReza EskandariNasab — also known as **Sam**, a name borrowed from the legendary Persian hero of the *Shahnameh*.
 
-- 🎓 Fourth-year **PhD candidate in Computer Science** at Utah State University, where I also earned my MSc
-- 🔬 **Graduate Research Assistant** working on generative models for time-series and multimodal data
-- 📌 **Actively seeking Assistant Professor positions**
-
 ---
 
 ## 🔬 Research
@@ -37,20 +33,6 @@ An NSF-funded project (**Award No. 2530946**) extending my generative work acros
 ### Space Weather Forecasting
 Machine-learning pipelines that forecast **solar flares**, **solar energetic particle (SEP) events**, and **coronal mass ejections (CMEs)**.
 > Published in *The Astrophysical Journal Supplement Series*, with three manuscripts under review at *Space Weather* and *The Astrophysical Journal*.
-
----
-
-## 🧰 Toolbox
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-</p>
 
 ---
 
